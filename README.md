@@ -90,7 +90,7 @@ Follow these steps to run the application locally:
    npm run dev
    ```
 5. **Open in browser**:
-   Navigate to [http://localhost:3000](http://localhost:3000)
+   Navigate to [https://staysage-ai.vercel.app/](https://staysage-ai.vercel.app/)
 
 ### Demo Credentials
 For testing in Demo Mode, select one of the quick login options on the login screen or enter manually:
