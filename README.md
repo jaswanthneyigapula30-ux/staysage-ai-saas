@@ -2,7 +2,21 @@
 
 **[🔗 View Live Website](https://staysage-ai.vercel.app/)**
 
-![Application Screenshot](C:/Users/Jaswanth/.gemini/antigravity/brain/tempmediaStorage/media__1782139955466.png)
+## 🖥️ Application Screenshots
+
+### 📊 Operations Dashboard
+![Operations Dashboard](public/screenshots/dashboard.png)
+
+### 📝 AI Assisted Ticket Logging
+![AI Assisted Ticket Logging](public/screenshots/log_complaint.png)
+
+### 📋 Guest Complaints Desk
+![Guest Complaints Desk](public/screenshots/complaints_desk.png)
+
+### 📈 Operations Analytics
+![Operations Analytics](public/screenshots/analytics.png)
+
+---
 
 StaySage AI is a modern, premium AI-powered Hotel Guest Complaint Management SaaS platform designed for high-end hospitality operations. The application enables hotel operations teams, front desk agents, and duty managers to log guest complaints, run real-time AI analysis to categorize and determine ticket urgency, and manage workflows via a centralized dashboard.
 
